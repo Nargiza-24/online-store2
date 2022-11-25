@@ -1,0 +1,84 @@
+body {
+    font-family: Arial
+}
+
+header a {
+    border: 1px solid black;
+    background: #FFCC73;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 2px 15px 2px 15px;
+    position: absolute;
+    margin: 14px 384px 13px 71px;
+}
+
+header, footer {
+    width: 600px;
+    height: 51px;
+    background: #6A93D4
+}
+
+header img {
+    width: 41px;
+    height: 32px;
+    margin: 9px 550px 10px 9px;
+    position: absolute;
+    background: #104BA9;
+    border: 1px solid #FFFFFF;
+}
+
+h1 {
+font-size: 30px;
+color: #052D6E;
+margin: 11px 110px 11px 120px;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+}
+
+.hi {
+margin: 23px 11px 23px 11px;
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #000000;
+width: 554px;
+height: 44px;
+left: 23px;
+top: 115px;
+
+}
+
+p {
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #000000;
+
+}
+
+footer p {
+    text-align: left;
+    color: white;
+    padding: 7px 400px 6px 13px;
+}
+
+main {
+    height: 450px;
+}
+
+header img {
+    width:41;
+    height:32
+}
+
+p img {
+    width: 300px;
+    height: 120px;
+}
+
+<!-- https://drive.google.com/file/d/1HqXs3mRK2WJw0VqlMXXYhdisjuevaxkw/view?usp=share_linkhttps://drive.google.com/file/d/1HqXs3mRK2WJw0VqlMXXYhdisjuevaxkw/view?usp=share_link -->
+
+<!-- ul {
+    list-style: url("https://drive.google.com/uc?export=view&id=1HqXs3mRK2WJw0VqlMXXYhdisjuevaxkw" );
+} -->
